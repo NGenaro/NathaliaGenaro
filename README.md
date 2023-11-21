@@ -9,9 +9,6 @@
   📚 Mestrado em IA (Em Andamento)
 
 
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
   <title>Formação Acadêmica</title>
   <style>
     body {
