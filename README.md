@@ -9,7 +9,7 @@
   📚 Mestrado em IA (Em Andamento)
 
 <div>
-  <img width="40%" align="center" src="https://github-readme-stats.vercel.app/api?username=NGenaro&theme=dark&title=Graduação%20em%20Engenharia%20da%20Computação"/>
+  <img width="90%" align="center" src="https://github-readme-stats.vercel.app/theme=dark&title=Graduação%20em%20Engenharia%20da%20Computação"/>
 </div>
 <div>
   <img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=NGenaro&show_icons=true&theme=dark&include_all_commits=true$count_private=true"/>
