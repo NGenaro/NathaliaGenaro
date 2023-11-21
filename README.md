@@ -9,9 +9,10 @@
   📚 Mestrado em IA (Em Andamento)
 
 
-<div class="code-line"><span class="comment">// Formação Acadêmica</span></div>
-<div class="code-line"><span class="keyword">const</span> <span class="variable">graduacao</span> = <span class="string">'Graduação em Engenharia da Computação';</span></div>
-<div class="code-line"><span class="keyword">const</span> <span class="variable">residencia</span> = <span class="string">'Residência em Inteligência Artificial';</span></div>
-<div class="code-line"><span class="keyword">const</span> <span class="variable">mestrado</span> = <span class="string">'Mestrado em IA (Em Andamento)';</span></div>
+# Formação Acadêmica
 
-
+```javascript
+// Formação Acadêmica
+const graduacao = 'Graduação em Engenharia da Computação';
+const residencia = 'Residência em Inteligência Artificial';
+const mestrado = 'Mestrado em IA (Em Andamento)';
