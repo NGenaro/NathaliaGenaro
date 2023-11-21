@@ -1,4 +1,4 @@
-##Oi, eu sou a Nathalia Genaro
+## Oi, eu sou a Nathalia Genaro
 
 🎓 Formação Acadêmica
 
@@ -8,6 +8,10 @@
 
   📚 Mestrado em IA (Em Andamento)
 
+
+<div>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=NGenaro$show_icons=true$theme=dark&include_all_commits=true>
+</div>
 
 <div  align="center" style="margin-bottom:100px">
   <a href= "https://github.com/NGenaro">
