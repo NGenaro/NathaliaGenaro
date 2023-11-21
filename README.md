@@ -8,9 +8,40 @@
 
   📚 Mestrado em IA (Em Andamento)
 
-<div>
-  <img width="90%" align="center" src="https://github-readme-stats.vercel.app/api?theme=dark&title=Graduação%20em%20Engenharia%20da%20Computação"/>
-</div>
+<head>
+  <meta charset="UTF-8">
+  <title>Formação Acadêmica</title>
+  <style>
+    body {
+      background-color: #1e1e1e;
+      color: #ffffff;
+      font-family: 'Courier New', monospace;
+      padding: 20px;
+    }
+    .code-line {
+      margin-bottom: 10px;
+    }
+    .comment {
+      color: #6a9955;
+    }
+    .keyword {
+      color: #569cd6;
+    }
+    .string {
+      color: #ce9178;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="code-line"><span class="comment">// Formação Acadêmica</span></div>
+  <div class="code-line"><span class="keyword">const</span> <span class="variable">graduacao</span> = <span class="string">'Graduação em Engenharia da Computação';</span></div>
+  <div class="code-line"><span class="keyword">const</span> <span class="variable">residencia</span> = <span class="string">'Residência em Inteligência Artificial';</span></div>
+  <div class="code-line"><span class="keyword">const</span> <span class="variable">mestrado</span> = <span class="string">'Mestrado em IA (Em Andamento)';</span></div>
+
+</body>
+
+
 <div>
   <img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=NGenaro&show_icons=true&theme=dark&include_all_commits=true$count_private=true"/>
   <img width=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NGenaro&layout=compact&langs_cout=16&theme=dark"/>
