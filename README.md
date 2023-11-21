@@ -2,11 +2,11 @@
 
 ### Formação Acadêmica
 
-  🧠 Graduação em Engenharia da Computação
+ - 🧠 Graduação em Engenharia da Computação
 
-  🤖 Residência em Inteligência Artificial
+ - 🤖 Residência em Inteligência Artificial
 
-  📚 Mestrado em IA (Em Andamento)
+ - 📚 Mestrado em IA (Em Andamento)
   
 ## Contato
 
@@ -19,6 +19,15 @@
 </div>
 
 ## Conhecimento
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=flat-square&logo=python&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 <div>
   <img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=NGenaro&show_icons=true&theme=dark&include_all_commits=true$count_private=true"/>
