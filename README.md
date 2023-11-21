@@ -1,6 +1,6 @@
 ## Oi, eu sou a Nathalia Genaro
 
-🎓 Formação Acadêmica
+# Formação Acadêmica
 
   🧠 Graduação em Engenharia da Computação
 
