@@ -7,7 +7,7 @@
  - 🤖 Residência em Inteligência Artificial
 
  - 📚 Mestrado em IA (Em Andamento)
- - 
+
 ## Contato
 
 <div> 
