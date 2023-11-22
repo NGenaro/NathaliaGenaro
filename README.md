@@ -14,7 +14,7 @@
   <a href="https://www.youtube.com/channel/UCiqQkD6vqpywXuH9qFzC_yg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/_n_genaro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
+## Resumo
 <div>
   <img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=NGenaro&show_icons=true&theme=Dark&include_all_commits=true$count_private=true"/>
   <img width=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NGenaro&layout=compact&langs_cout=16&theme=Dark"/>
