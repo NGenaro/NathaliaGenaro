@@ -1,6 +1,9 @@
-<div> 
-  <a href="https://www.linkedin.com/in/nathaliagenaropsantos/" target="_blank"><img src="https://web.whatsapp.com/47b5d765-2f6d-4ba4-837d-43b0b9ad3b28" target="_blank"></a> 
-</div>
+  <div> 
+    <a href="https://web.whatsapp.com/" target="_blank">
+      <img src="blob:https://web.whatsapp.com/53847642-4178-4d65-ad05-5596824a3072" alt="Imagem do WhatsApp">
+    </a>
+  </div>
+
 ### Formação Acadêmica
 
  - 🧠 Graduação em Engenharia da Computação
