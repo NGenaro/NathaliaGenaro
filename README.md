@@ -2,13 +2,11 @@
     <img src="https://github.com/NGenaro/IMAGENS/blob/main/CAPA_GITHUB01.png">
   </div>
 
-### Formação Acadêmica
+### About me
 
- - 🧠 Graduação em Engenharia da Computação
-
- - 🤖 Residência em Inteligência Artificial
-
- - 📚 Mestrado em IA (Em Andamento)
+:Hello! I'm Nathália. I have a Bachelor's degree in Computer Engineering and I'm currently pursuing a Master's in Artificial Intelligence. Additionally, I'm engaged in a residency program focused on Artificial Intelligence.
+I'm passionate about art, especially pixel art. My interests lie in UX/UI design, front-end development, and data analysis.
+I'm deeply excited about exploring the intersection of technology and creative design to innovate and deliver user-centered solutions.:
 
 ## Contato
 
