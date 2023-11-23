@@ -1,5 +1,5 @@
   <div> 
-    <img src="[/assets/img/arquivo.gif](https://web.whatsapp.com/53847642-4178-4d65-ad05-5596824a3072)">
+    <img src="https://web.whatsapp.com/53847642-4178-4d65-ad05-5596824a3072">
   </div>
 
 ### Formação Acadêmica
