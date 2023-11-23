@@ -1,4 +1,4 @@
-## Oi, eu sou Nathalia Genaro
+!(blob:https://web.whatsapp.com/47b5d765-2f6d-4ba4-837d-43b0b9ad3b28)
 
 ### Formação Acadêmica
 
