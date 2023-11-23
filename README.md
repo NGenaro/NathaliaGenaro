@@ -3,10 +3,10 @@
   </div>
 
 ### About me
-
-:Hello! I'm Nathália. I have a Bachelor's degree in Computer Engineering and I'm currently pursuing a Master's in Artificial Intelligence. Additionally, I'm engaged in a residency program focused on Artificial Intelligence.
+:---:
+Hello! I'm Nathália. I have a Bachelor's degree in Computer Engineering and I'm currently pursuing a Master's in Artificial Intelligence. Additionally, I'm engaged in a residency program focused on Artificial Intelligence.
 I'm passionate about art, especially pixel art. My interests lie in UX/UI design, front-end development, and data analysis.
-I'm deeply excited about exploring the intersection of technology and creative design to innovate and deliver user-centered solutions.:
+I'm deeply excited about exploring the intersection of technology and creative design to innovate and deliver user-centered solutions.
 
 ## Contato
 
