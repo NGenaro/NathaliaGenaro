@@ -2,6 +2,7 @@
   <img width=99% align="center" src="https://github.com/NGenaro/IMAGENS/blob/main/CAPA_GITHUB02.png">
 </div>
 # 
+
 <div>  
 <p align="center">
   <a href="https://www.linkedin.com/in/nathaliagenaropsantos/" target="_blank">
@@ -18,7 +19,8 @@
   </a>
 </p>
 </div>
-3
+#
+
 ### About me
 
 Hello! I'm Nathália. I have a Bachelor's degree in Computer Engineering and I'm currently pursuing a Master's in Artificial Intelligence. Additionally, I'm engaged in a residency program focused on Artificial Intelligence.
