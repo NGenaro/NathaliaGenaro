@@ -4,16 +4,16 @@
   
 <p align="center">
   <a href="https://www.linkedin.com/in/nathaliagenaropsantos/" target="_blank">
-    <img width=15% src="https://github.com/NGenaro/IMAGENS/blob/main/LINKEDIN.jpeg">
+    <img height=15% src="https://github.com/NGenaro/IMAGENS/blob/main/LINKEDIN.jpeg">
   </a> 
   <a href = "mailto:n.genaropsantos@gmail.com">
-    <img width=15% src="https://github.com/NGenaro/IMAGENS/blob/main/GMAIL.jpeg">
+    <img height=15% src="https://github.com/NGenaro/IMAGENS/blob/main/GMAIL.jpeg">
   </a>
   <a href="https://www.youtube.com/channel/UCiqQkD6vqpywXuH9qFzC_yg" target="_blank">
-    <img width=15% src="https://github.com/NGenaro/IMAGENS/blob/main/YOUTUBE.jpeg">
+    <img height=15% src="https://github.com/NGenaro/IMAGENS/blob/main/YOUTUBE.jpeg">
   </a>
   <a href="https://instagram.com/_n_genaro" target="_blank">
-    <img width=15% src="https://github.com/NGenaro/IMAGENS/blob/main/INSTAGRAM.jpeg">
+    <img height=15% src="https://github.com/NGenaro/IMAGENS/blob/main/INSTAGRAM.jpeg">
   </a>
 </p>
 
