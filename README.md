@@ -1,6 +1,7 @@
 <div> 
   <img width=99% align="center" src="https://github.com/NGenaro/IMAGENS/blob/main/CAPA_GITHUB02.png">
 </div>
+
 # 
 
 <div>  
@@ -19,6 +20,7 @@
   </a>
 </p>
 </div>
+
 #
 
 ### About me
