@@ -1,7 +1,9 @@
 <div> 
-  <img width=99% align="center" src="https://github.com/NGenaro/IMAGENS/blob/main/CAPAS%20GIT.png">
+  <img width=99% align="center" src="https://github.com/NGenaro/IMAGENS/blob/main/CAPA_GITHUB02.png">
 </div>
-# _
+
+# 
+
 <div>  
 <p align="center">
   <a href="https://www.linkedin.com/in/nathaliagenaropsantos/" target="_blank">
