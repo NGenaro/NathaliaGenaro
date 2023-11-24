@@ -1,5 +1,5 @@
   <div> 
-    <img src="https://github.com/NGenaro/IMAGENS/blob/main/CAPAS%20GIT.png">
+    <img width=99% src="https://github.com/NGenaro/IMAGENS/blob/main/CAPAS%20GIT.png">
   </div>
   
 <p align="center">
