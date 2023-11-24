@@ -4,16 +4,16 @@
   
 <p align="center">
   <a href="https://www.linkedin.com/in/nathaliagenaropsantos/" target="_blank">
-    <img width=10% src="https://github.com/NGenaro/IMAGENS/blob/main/LINKEDIN.jpeg">
+    <img width=15% src="https://github.com/NGenaro/IMAGENS/blob/main/LINKEDIN.jpeg">
   </a> 
   <a href = "mailto:n.genaropsantos@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img width=15% src="https://github.com/NGenaro/IMAGENS/blob/main/GMAIL.jpeg">
   </a>
   <a href="https://www.youtube.com/channel/UCiqQkD6vqpywXuH9qFzC_yg" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+    <img width=15% src="https://github.com/NGenaro/IMAGENS/blob/main/YOUTUBE.jpeg">
   </a>
   <a href="https://instagram.com/_n_genaro" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img width=15% src="https://github.com/NGenaro/IMAGENS/blob/main/INSTAGRAM.jpeg">
   </a>
 </p>
 
