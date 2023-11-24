@@ -1,9 +1,8 @@
 <div> 
   <img width=99% align="center" src="https://github.com/NGenaro/IMAGENS/blob/main/CAPAS%20GIT.png">
 </div>
-
+---
 <div>  
-
 <p align="center">
   <a href="https://www.linkedin.com/in/nathaliagenaropsantos/" target="_blank">
     <img height=30 src="https://github.com/NGenaro/IMAGENS/blob/main/LINKEDIN.jpeg">
