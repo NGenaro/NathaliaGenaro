@@ -1,5 +1,5 @@
 <div> 
-  <img width=99% align="center" src="https://github.com/NGenaro/IMAGENS/blob/main/CAPAS%20GIT.png">
+  <[## Oi, eu sou Nathalia Genaro!](img width=99% align="center" src="https://github.com/NGenaro/IMAGENS/blob/main/CAPAS%20GIT.png)">
 </div>
 
 <div>  
