@@ -1,34 +1,35 @@
-<div> 
-  <img width=99% align="center" src="https://github.com/NGenaro/IMAGENS/blob/main/CAPA_GITHUB02.png">
-</div>
+# 👋 Olá!
 
-###
+Eu sou Nathália Genaro, uma entusiasta de tecnologia e cientista de dados. Atualmente, trabalho como Residente em Inteligência Artificial no HUB de Inteligência Artificial do SENAI. Com experiência em análise de dados e ciência de dados, tenho a oportunidade de trabalhar em diversos projetos empolgantes, explorando diferentes tecnologias.
 
-<div>  
-<p align="center">
-  <a href="https://www.linkedin.com/in/nathaliagenaropsantos/" target="_blank">
-    <img height=30 src="https://github.com/NGenaro/IMAGENS/blob/main/LINKEDIN.jpeg">
-  </a> 
-  <a href = "mailto:n.genaropsantos@gmail.com">
-    <img height=30 src="https://github.com/NGenaro/IMAGENS/blob/main/GMAIL.jpeg">
-  </a>
-  <a href="https://www.youtube.com/channel/UCiqQkD6vqpywXuH9qFzC_yg" target="_blank">
-    <img height=30 src="https://github.com/NGenaro/IMAGENS/blob/main/YOUTUBE.jpeg">
-  </a>
-  <a href="https://instagram.com/_n_genaro" target="_blank">
-    <img height=30 src="https://github.com/NGenaro/IMAGENS/blob/main/INSTAGRAM.jpeg">
-  </a>
-</p>
-</div>
+“Do, or do not. There is no try.” — Yoda
 
-### About me
+## 🚀 Expertise
 
-Hello! I'm Nathália. I have a Bachelor's degree in Computer Engineering and I'm currently pursuing a Master's in Artificial Intelligence. Additionally, I'm engaged in a residency program focused on Artificial Intelligence.
-I'm passionate about art, especially pixel art. My interests lie in UX/UI design, front-end development, and data analysis.
-I'm deeply excited about exploring the intersection of technology and creative design to innovate and deliver user-centered solutions.
+Apaixonada por análise e visualização de dados, eu me especializo em transformar dados brutos em insights acionáveis, utilizando ferramentas e técnicas avançadas. Minha jornada profissional inclui:
 
-<div>
-  <img width=44% align="center" src="https://github-readme-stats.vercel.app/api?username=NGenaro&show_icons=true&theme=dracula&include_all_commits=true$count_private=true"/>
-  <img width=54% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NGenaro&layout=compact&langs_cout=16&theme=dracula"/>
-</div>
+- **Análise e Visualização de Dados**: Experiência com Power BI (incluindo Power Query e DAX) e Streamlit para criar relatórios visuais interativos.
+- **Coleta de Dados**: Coleta de dados via web scraping e APIs.
+- **Machine Learning**: Desenvolvimento de modelos preditivos, tratamento de texto com Processamento de Linguagem Natural (PLN) e detecção para visão computacional.
+- **Ferramentas e Tecnologias**: Conhecimentos sólidos em Python, SQL, Pandas, NumPy, Scikit-learn, além de experiência com Azure e Docker.
+
+Na minha trajetória, desenvolvi projetos utilizando Python, SQL e Power BI, aplicando técnicas de Machine Learning e pré-processamento de dados para otimização de processos e identificação de melhorias.
+
+Além das atividades profissionais, estou sempre em busca de novos conhecimentos e habilidades, valorizando a estabilidade e o crescimento contínuo dentro da empresa.
+
+## 💻 Tech Stack
+
+- **Linguagens**: Python, SQL
+- **Ferramentas de Visualização**: Power BI, Streamlit
+- **Bibliotecas e Frameworks**: Pandas, NumPy, Scikit-learn
+- **Plataformas e Serviços**: Azure, Docker
+- **Outras Ferramentas**: Power Query, DAX
+
+## 🌐 Sociais
+
+[LinkedIn](https://www.linkedin.com/in/nathaliagenaropsantos/)
+
+---
+
+Estou em busca de oportunidades que me permitam aprender e crescer continuamente, sempre buscando aprimoramento profissional e estabilidade. Vamos nos conectar!
 
