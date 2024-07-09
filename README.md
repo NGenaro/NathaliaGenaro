@@ -2,7 +2,6 @@
 
 Eu sou Nathália Genaro, uma entusiasta de tecnologia e cientista de dados. Atualmente, trabalho como Residente em Inteligência Artificial no HUB de Inteligência Artificial do SENAI. Com experiência em análise de dados e ciência de dados, tenho a oportunidade de trabalhar em diversos projetos empolgantes, explorando diferentes tecnologias.
 
-“Do, or do not. There is no try.” — Yoda
 
 ## 🚀 Expertise
 
@@ -19,11 +18,8 @@ Além das atividades profissionais, estou sempre em busca de novos conhecimentos
 
 ## 💻 Tech Stack
 
-- **Linguagens**: Python, SQL
-- **Ferramentas de Visualização**: Power BI, Streamlit
-- **Bibliotecas e Frameworks**: Pandas, NumPy, Scikit-learn
-- **Plataformas e Serviços**: Azure, Docker
-- **Outras Ferramentas**: Power Query, DAX
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%234CBB17.svg?style=for-the-badge&logo=sql&logoColor=white) ![Power BI](https://img.shields.io/badge/powerbi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black) ![Streamlit](https://img.shields.io/badge/streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Query](https://img.shields.io/badge/powerquery-%23025E8C.svg?style=for-the-badge&logo=microsoftpowerquery&logoColor=white) ![DAX](https://img.shields.io/badge/dax-%230056AB.svg?style=for-the-badge&logo=dax&logoColor=white)
+
 
 ## 🌐 Sociais
 
