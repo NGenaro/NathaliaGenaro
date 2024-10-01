@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/NGenaro/IMAGENS/main/capa%20git.gif" alt="Nathália Genaro" style="width: 100%;" onerror="this.onerror=null; this.src='https://via.placeholder.com/800x200?text=Nath%C3%A1lia+Genaro';"/>
+<img src="https://github.com/NGenaro/IMAGENS/blob/main/capa-git-00%20(1).gif)" alt="Seu Nome" style="width: 100%;"/>
 
 
 # **SOBRE MIM**
