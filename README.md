@@ -16,25 +16,6 @@ Sou uma profissional com experiência em engenharia de dados, análise e ciênci
 - **Bacharelado em Engenharia da Computação**  
   Faculdade de Engenharia e Inovação Técnico Profissional - FEITEP (2017–2021 - Finalizado)
 
-# **PROJETOS**
-- **Automação para coleta de dados via scraping**  
-  Projeto desenvolvido para Iluminar Engenharia, onde implementei uma solução em Python utilizando Selenium e BeautifulSoup para extração de dados e atualização de uma base de dados.
-
-- **Automatização de manipulação de dados via API**  
-  Prova de conceito (PoC) para uma API desenvolvida em C# com Swagger, destinada a automatizar o processo de coleta de arquivos em diversos sites.
-
-- **Análise de dados com interface via Streamlit**  
-  Desenvolvimento de um projeto para auxiliar na gestão de casos de suporte, utilizando Python e Streamlit para visualização dos dados.
-
-- **Análise de dados com interface via Power BI**  
-  Projeto focado em vendas e pós-vendas, onde utilizei Python para análise de dados e Power BI para visualização.
-
-- **Chatbot para redirecionamento de chamados**  
-  Desenvolvimento de uma PoC em Python utilizando modelos como KNN, SVM e LSTM para redirecionar casos de suporte.
-
-- **Detecção de macacos em área florestal**  
-  Projeto desenvolvido em Python utilizando o modelo YOLOv8 para detectar animais em ambientes naturais.
-
 # **CONHECIMENTOS E STACKS**
 - **Linguagens de Programação:** Python, SQL, C#
 - **Ferramentas e Tecnologias:** Power BI, Oracle, SQL Server
