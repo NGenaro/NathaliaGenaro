@@ -1,4 +1,4 @@
-![Seu Nome](https://github.com/NGenaro/IMAGENS/blob/main/capa%20git.gif)
+<img src="https://github.com/NGenaro/IMAGENS/blob/main/capa%20git.gif" alt="Seu Nome" style="width: 100%;"/>
 
 # **SOBRE MIM**
 Sou uma profissional com experiência em engenharia de dados, análise e ciência de dados, atuando em projetos que vão desde a coleta e pré-processamento até a análise e desenvolvimento de modelos de Machine Learning. Minha atuação inclui a utilização de dados em bancos de dados Oracle, com foco na otimização de processos e descoberta de insights valiosos. Sou proativa, valorizo o trabalho em equipe e estou sempre em busca de aprendizado contínuo.
@@ -16,18 +16,24 @@ Sou uma profissional com experiência em engenharia de dados, análise e ciênci
 - **Bacharelado em Engenharia da Computação**  
   Faculdade de Engenharia e Inovação Técnico Profissional - FEITEP (2017–2021 - Finalizado)
 
-# **EXPERIÊNCIA**
-- **Cientista de Dados**  
-  NAC Lubrificantes (Jul 2024 – Atual)  
-  Desenvolvimento de pesquisas e projetos de ciência e análise de dados com IA, aplicando algoritmos de Machine Learning e técnicas avançadas de processamento de dados.
+# **PROJETOS**
+- **Automação para coleta de dados via scraping**  
+  Projeto desenvolvido para Iluminar Engenharia, onde implementei uma solução em Python utilizando Selenium e BeautifulSoup para extração de dados e atualização de uma base de dados.
 
-- **Cientista de Dados**  
-  SENAI (Set 2023 – Atual)  
-  Elaboração de projetos elétricos em sistemas solares e administração de dados, além de suporte na gestão da empresa.
+- **Automatização de manipulação de dados via API**  
+  Prova de conceito (PoC) para uma API desenvolvida em C# com Swagger, destinada a automatizar o processo de coleta de arquivos em diversos sites.
 
-- **Analista de Projetos**  
-  Iluminar Engenharia (Nov 2022 – Jul 2024)  
-  Implementação de projetos de extração de dados, automação via API, e análise de dados para suporte à gestão.
+- **Análise de dados com interface via Streamlit**  
+  Desenvolvimento de um projeto para auxiliar na gestão de casos de suporte, utilizando Python e Streamlit para visualização dos dados.
+
+- **Análise de dados com interface via Power BI**  
+  Projeto focado em vendas e pós-vendas, onde utilizei Python para análise de dados e Power BI para visualização.
+
+- **Chatbot para redirecionamento de chamados**  
+  Desenvolvimento de uma PoC em Python utilizando modelos como KNN, SVM e LSTM para redirecionar casos de suporte.
+
+- **Detecção de macacos em área florestal**  
+  Projeto desenvolvido em Python utilizando o modelo YOLOv8 para detectar animais em ambientes naturais.
 
 # **CONHECIMENTOS E STACKS**
 - **Linguagens de Programação:** Python, SQL, C#
