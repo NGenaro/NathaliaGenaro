@@ -1,4 +1,5 @@
-![Nathalia Genaro](https://github.com/NGenaro/IMAGENS/blob/main/capa%20git.gif)
+<img src="https://raw.githubusercontent.com/NGenaro/IMAGENS/main/capa%20git.gif" alt="Nathália Genaro" style="width: 100%;" onerror="this.onerror=null; this.src='https://via.placeholder.com/800x200?text=Nath%C3%A1lia+Genaro';"/>
+
 
 # **SOBRE MIM**
 Sou uma profissional com experiência em engenharia de dados, análise e ciência de dados, atuando em projetos que vão desde a coleta e pré-processamento até a análise e desenvolvimento de modelos de Machine Learning. Minha atuação inclui a utilização de dados em bancos de dados Oracle, com foco na otimização de processos e descoberta de insights valiosos. Sou proativa, valorizo o trabalho em equipe e estou sempre em busca de aprendizado contínuo.
