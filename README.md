@@ -1,4 +1,4 @@
-<img src="[https://https://github.com/NGenaro/IMAGENS/blob/main/capa-git-00.gif" alt="Nathalia Genaro" style="width: 100%;"/>
+<img src="[https://github.com/NGenaro/IMAGENS/blob/main/capa-git-00.gif" alt="Nathalia Genaro" style="width: 100%;"/>
 
 
 # **SOBRE MIM**
